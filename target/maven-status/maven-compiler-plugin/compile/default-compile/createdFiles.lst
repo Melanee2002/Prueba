@@ -1,0 +1,12 @@
+com\zegel\vet\colitasfelices\conexion\Conexion.class
+com\zegel\vet\colitasfelices\controller\UsuariosServlet.class
+com\zegel\vet\colitasfelices\model\Clientes.class
+com\zegel\vet\colitasfelices\controller\LoginServlet.class
+com\zegel\vet\colitasfelices\controller\ClientesServlet.class
+com\zegel\vet\colitasfelices\dao\ClientesDao.class
+com\zegel\vet\colitasfelices\dao\LoginDao.class
+com\zegel\vet\colitasfelices\controller\IndexServlet.class
+com\zegel\vet\colitasfelices\model\Login.class
+com\mycompany\colitasfelices\resources\JakartaEE10Resource.class
+com\mycompany\colitasfelices\JakartaRestConfiguration.class
+com\zegel\vet\colitasfelices\dao\UsuariosDao.class
